@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1071643733787",
+    "project_id": "petperdido-4ba12",
+    "storage_bucket": "petperdido-4ba12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071643733787:android:020b615c3c5945be8f6dbe",
+        "android_client_info": {
+          "package_name": "com.petperdido"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp602UfXgeY9fcDvxWqBzrLxFxbWMQZyg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
