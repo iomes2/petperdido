@@ -1,3 +1,8 @@
+![MicrosoftTeams-image (3)](https://github.com/iomes2/petperdido/assets/73625686/b35c4c10-7551-49a0-b32c-55fe48ea10d4)
+![MicrosoftTeams-image (2)](https://github.com/iomes2/petperdido/assets/73625686/269099e3-39e5-4769-8c13-7a150e7b7484)
+![MicrosoftTeams-image (1)](https://github.com/iomes2/petperdido/assets/73625686/7de9f67a-de40-41a4-94e0-c48ed0cc4c85)
+![MicrosoftTeams-image](https://github.com/iomes2/petperdido/assets/73625686/91f790a6-7413-484e-97bc-dcfac2810b9d)
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
